@@ -1,6 +1,7 @@
 
-name = {"my name" => "Tommi"}
+
 def my_hash(name)
+  name = {"my name" => "Tommi"}
   name
 end
   
